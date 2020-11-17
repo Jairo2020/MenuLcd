@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 ###########################################
 
-Menu        KEYWORD1
+Menu_Lcd	        KEYWORD1
 LiquidCrystal_I2C    	KEYWORD1
 LiquidCrystal_SR3W      KEYWORD1
 LiquidCrystal        	KEYWORD1
@@ -15,9 +15,9 @@ LCD                  	KEYWORD1
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
-begin                KEYWORD2
-clear                KEYWORD2
+
 setParameters        KEYWORD2
+clear                KEYWORD2
 noDisplay            KEYWORD2
 display              KEYWORD2
 noBlink              KEYWORD2
